@@ -1,0 +1,80 @@
+body{
+    background-color: #E5E5E5;
+    margin: 0px;
+}
+header{
+    Width:1440px;
+    Height:100px;
+}
+.image-1{
+    width: 61px;
+    height: 61px;
+    padding-left: 120px;
+    padding-top: 19px;
+}
+.button{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+    border: none;
+    background-color: #E5E5E5;
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+    margin-top: -45px;
+    /* აქ padding-top ბრძანებამ არ იმუშავა */
+}
+.conatiner{
+    width:603px;
+    height:424px;
+    /* margin-left: 120px;  არც აქ იმუშავა*/
+}
+.text-1{
+    width: 603px;
+    height: 126px;
+    font-family: 'Noto Sans Arabic';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 63px;
+    text-transform: capitalize;
+    color: #000000;
+    margin-left: 120px;
+}
+.text-2{
+    width: 603px;
+    height: 153px;
+    font-family: 'Noto Sans Arabic';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 24px;
+    line-height: 51px;
+    text-transform: capitalize;
+    color: #000000;
+    margin-left: 120px;
+}
+.join{
+    width: 206px;
+    height: 75px;
+    background: rgba(85, 85, 255, 0.81);
+    border: none;
+    margin-left: 120px;
+    font-family: 'Oxygen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+.image-2{
+    width:492.58px;
+    height:328px;
+    margin-left: 950px;
+    margin-top: -287px;
+}
